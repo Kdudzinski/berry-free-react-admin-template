@@ -169,7 +169,7 @@ const EarningCard = ({ isLoading }) => {
                                         color: theme.palette.secondary[200]
                                     }}
                                 >
-                                    Chuj wie co
+                                    Krzyś
                                 </Typography>
                             </Grid>
                         </Grid>
